@@ -43,7 +43,7 @@
 
 ---
 
-> ✨ *"O código é a poesia que faz o mundo funcionar."*
+> ✨ *"Deus seja louvado!"*
   <h3>* Linha de Commits *</h3>  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TH-SPACE/TH-SPACE/output/github-contribution-grid-snake-dark.svg">
