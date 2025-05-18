@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=chartreuse-dark&locale=pt-br">
 </div>
 
-<div>
+<div style ="display> inline-block>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 </div>
 
